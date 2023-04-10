@@ -164,7 +164,7 @@ p {
 
 /* Hero Section */
 #hero{
-    background-image: url(./img/milky.jpg);
+    background-image: url(./milky.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
