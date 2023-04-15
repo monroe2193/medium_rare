@@ -316,7 +316,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./laptop.jpg);
+    background-image: url(.//tech\ chip.jpg);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
@@ -349,7 +349,17 @@ p {
     font-size: 2rem;
     color: white;
     margin-bottom: 10px;
+    padding: 2px 10px;
     text-transform: uppercase;
+    background-color: #29323c;
+}
+#services .service-item h3 {
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    background-color: #29323c;
+    padding: 5px;
 }
 #services .service-item p {
     color: white;
@@ -357,6 +367,13 @@ p {
     font-size: 1.4rem;
     line-height: 1.9rem;
 }
+#services .service-item li{
+    color: white;
+    text-align: left;
+    font-size: 1.4rem;
+    line-height: 1.9rem;
+}
+
 #services .service-item p {
     color: white;
     text-align: left;
